@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		866268F42D142F3C0054E911 /* SweetCastleLevelsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268F12D142F3C0054E911 /* SweetCastleLevelsView.swift */; };
-		866268F52D142F3C0054E911 /* SweetCastleLevelsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268F22D142F3C0054E911 /* SweetCastleLevelsModel.swift */; };
-		866268F62D142F3C0054E911 /* SweetCastleLevelsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268F32D142F3C0054E911 /* SweetCastleLevelsViewModel.swift */; };
-		866268FC2D14390C0054E911 /* CandyFactoryLevelsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268F92D14390C0054E911 /* CandyFactoryLevelsView.swift */; };
-		866268FD2D14390C0054E911 /* CandyFactoryLevelsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268FA2D14390C0054E911 /* CandyFactoryLevelsModel.swift */; };
-		866268FE2D14390C0054E911 /* CandyFactoryLevelsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268FB2D14390C0054E911 /* CandyFactoryLevelsViewModel.swift */; };
-		866269032D14566D0054E911 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269002D14566D0054E911 /* GameView.swift */; };
-		866269042D14566D0054E911 /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269012D14566D0054E911 /* GameModel.swift */; };
-		866269052D14566D0054E911 /* GameViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269022D14566D0054E911 /* GameViewModel.swift */; };
-		8662690B2D14D49E0054E911 /* WinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269082D14D49E0054E911 /* WinView.swift */; };
-		8662690C2D14D49E0054E911 /* WinModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269092D14D49E0054E911 /* WinModel.swift */; };
-		8662690D2D14D49E0054E911 /* WinViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662690A2D14D49E0054E911 /* WinViewModel.swift */; };
-		866269122D14DA390054E911 /* LoseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662690F2D14DA390054E911 /* LoseView.swift */; };
-		866269132D14DA390054E911 /* LoseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269102D14DA390054E911 /* LoseModel.swift */; };
-		866269142D14DA390054E911 /* LoseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269112D14DA390054E911 /* LoseViewModel.swift */; };
-		866269192D14DD150054E911 /* LoseLivesOverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269162D14DD150054E911 /* LoseLivesOverView.swift */; };
-		8662691A2D14DD150054E911 /* LoseLivesOverModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269172D14DD150054E911 /* LoseLivesOverModel.swift */; };
-		8662691B2D14DD150054E911 /* LoseLivesOverViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269182D14DD150054E911 /* LoseLivesOverViewModel.swift */; };
-		866269202D14DDB60054E911 /* PauseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662691D2D14DDB60054E911 /* PauseView.swift */; };
-		866269212D14DDB60054E911 /* PauseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662691E2D14DDB60054E911 /* PauseModel.swift */; };
-		866269222D14DDB60054E911 /* PauseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662691F2D14DDB60054E911 /* PauseViewModel.swift */; };
+		866268F42D142F3C0054E911 /* LollipopsSweetCastleLevelsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268F12D142F3C0054E911 /* LollipopsSweetCastleLevelsView.swift */; };
+		866268F52D142F3C0054E911 /* LollipopsSweetCastleLevelsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268F22D142F3C0054E911 /* LollipopsSweetCastleLevelsModel.swift */; };
+		866268F62D142F3C0054E911 /* LollipopsSweetCastleLevelsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268F32D142F3C0054E911 /* LollipopsSweetCastleLevelsViewModel.swift */; };
+		866268FC2D14390C0054E911 /* LollipopsCandyFactoryLevelsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268F92D14390C0054E911 /* LollipopsCandyFactoryLevelsView.swift */; };
+		866268FD2D14390C0054E911 /* LollipopsCandyFactoryLevelsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268FA2D14390C0054E911 /* LollipopsCandyFactoryLevelsModel.swift */; };
+		866268FE2D14390C0054E911 /* LollipopsCandyFactoryLevelsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866268FB2D14390C0054E911 /* LollipopsCandyFactoryLevelsViewModel.swift */; };
+		866269032D14566D0054E911 /* LollipopsGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269002D14566D0054E911 /* LollipopsGameView.swift */; };
+		866269042D14566D0054E911 /* LollipopsGameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269012D14566D0054E911 /* LollipopsGameModel.swift */; };
+		866269052D14566D0054E911 /* LollipopsGameViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269022D14566D0054E911 /* LollipopsGameViewModel.swift */; };
+		8662690B2D14D49E0054E911 /* LollipopsWinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269082D14D49E0054E911 /* LollipopsWinView.swift */; };
+		8662690C2D14D49E0054E911 /* LollipopsWinModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269092D14D49E0054E911 /* LollipopsWinModel.swift */; };
+		8662690D2D14D49E0054E911 /* LollipopsWinViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662690A2D14D49E0054E911 /* LollipopsWinViewModel.swift */; };
+		866269122D14DA390054E911 /* LollipopsLoseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662690F2D14DA390054E911 /* LollipopsLoseView.swift */; };
+		866269132D14DA390054E911 /* LollipopsLoseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269102D14DA390054E911 /* LollipopsLoseModel.swift */; };
+		866269142D14DA390054E911 /* LollipopsLoseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269112D14DA390054E911 /* LollipopsLoseViewModel.swift */; };
+		866269192D14DD150054E911 /* LollipopsLoseLivesOverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269162D14DD150054E911 /* LollipopsLoseLivesOverView.swift */; };
+		8662691A2D14DD150054E911 /* LollipopsLoseLivesOverModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269172D14DD150054E911 /* LollipopsLoseLivesOverModel.swift */; };
+		8662691B2D14DD150054E911 /* LollipopsLoseLivesOverViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269182D14DD150054E911 /* LollipopsLoseLivesOverViewModel.swift */; };
+		866269202D14DDB60054E911 /* LollipopsPauseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662691D2D14DDB60054E911 /* LollipopsPauseView.swift */; };
+		866269212D14DDB60054E911 /* LollipopsPauseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662691E2D14DDB60054E911 /* LollipopsPauseModel.swift */; };
+		866269222D14DDB60054E911 /* LollipopsPauseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8662691F2D14DDB60054E911 /* LollipopsPauseViewModel.swift */; };
 		866269262D151F860054E911 /* UserDefalutsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866269252D151F860054E911 /* UserDefalutsManager.swift */; };
 		867CFC092D123007004B2423 /* LollipopsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC082D123007004B2423 /* LollipopsApp.swift */; };
 		867CFC0D2D123009004B2423 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 867CFC0C2D123009004B2423 /* Assets.xcassets */; };
@@ -38,49 +38,49 @@
 		867CFC262D1232A9004B2423 /* SpicyRice-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 867CFC222D123201004B2423 /* SpicyRice-Regular.ttf */; };
 		867CFC282D1232C8004B2423 /* ImageName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC272D1232C8004B2423 /* ImageName.swift */; };
 		867CFC2A2D1232F4004B2423 /* CustomButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC292D1232F4004B2423 /* CustomButtons.swift */; };
-		867CFC2F2D1233C9004B2423 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC2C2D1233C9004B2423 /* LoadingView.swift */; };
-		867CFC302D1233C9004B2423 /* LoadingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC2D2D1233C9004B2423 /* LoadingModel.swift */; };
-		867CFC312D1233C9004B2423 /* LoadingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC2E2D1233C9004B2423 /* LoadingViewModel.swift */; };
-		867CFC362D123D48004B2423 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC332D123D48004B2423 /* MenuView.swift */; };
-		867CFC372D123D48004B2423 /* MenuModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC342D123D48004B2423 /* MenuModel.swift */; };
-		867CFC382D123D48004B2423 /* MenuViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC352D123D48004B2423 /* MenuViewModel.swift */; };
-		867D5FC92D136457000AFAE0 /* ShopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FC62D136457000AFAE0 /* ShopView.swift */; };
-		867D5FCA2D136457000AFAE0 /* ShopModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FC72D136457000AFAE0 /* ShopModel.swift */; };
-		867D5FCB2D136457000AFAE0 /* ShopViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FC82D136457000AFAE0 /* ShopViewModel.swift */; };
-		867D5FD02D1377E9000AFAE0 /* AdvanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FCD2D1377E9000AFAE0 /* AdvanceView.swift */; };
-		867D5FD12D1377E9000AFAE0 /* AdvanceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FCE2D1377E9000AFAE0 /* AdvanceModel.swift */; };
-		867D5FD22D1377E9000AFAE0 /* AdvanceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FCF2D1377E9000AFAE0 /* AdvanceViewModel.swift */; };
+		867CFC2F2D1233C9004B2423 /* LollipopsLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC2C2D1233C9004B2423 /* LollipopsLoadingView.swift */; };
+		867CFC302D1233C9004B2423 /* LollipopsLoadingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC2D2D1233C9004B2423 /* LollipopsLoadingModel.swift */; };
+		867CFC312D1233C9004B2423 /* LollipopsLoadingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC2E2D1233C9004B2423 /* LollipopsLoadingViewModel.swift */; };
+		867CFC362D123D48004B2423 /* LollipopsMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC332D123D48004B2423 /* LollipopsMenuView.swift */; };
+		867CFC372D123D48004B2423 /* LollipopsMenuModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC342D123D48004B2423 /* LollipopsMenuModel.swift */; };
+		867CFC382D123D48004B2423 /* LollipopsMenuViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867CFC352D123D48004B2423 /* LollipopsMenuViewModel.swift */; };
+		867D5FC92D136457000AFAE0 /* LollipopsShopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FC62D136457000AFAE0 /* LollipopsShopView.swift */; };
+		867D5FCA2D136457000AFAE0 /* LollipopsShopModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FC72D136457000AFAE0 /* LollipopsShopModel.swift */; };
+		867D5FCB2D136457000AFAE0 /* LollipopsShopViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FC82D136457000AFAE0 /* LollipopsShopViewModel.swift */; };
+		867D5FD02D1377E9000AFAE0 /* LollipopsAdvanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FCD2D1377E9000AFAE0 /* LollipopsAdvanceView.swift */; };
+		867D5FD12D1377E9000AFAE0 /* LollipopsAdvanceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FCE2D1377E9000AFAE0 /* LollipopsAdvanceModel.swift */; };
+		867D5FD22D1377E9000AFAE0 /* LollipopsAdvanceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867D5FCF2D1377E9000AFAE0 /* LollipopsAdvanceViewModel.swift */; };
 		86A9E5952D12EFBC007655CA /* RocknRollOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86A9E5942D12EF96007655CA /* RocknRollOne-Regular.ttf */; };
-		86A9E59A2D12F1D6007655CA /* StageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E5972D12F1D6007655CA /* StageView.swift */; };
-		86A9E59B2D12F1D6007655CA /* StageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E5982D12F1D6007655CA /* StageModel.swift */; };
-		86A9E59C2D12F1D6007655CA /* StageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E5992D12F1D6007655CA /* StageViewModel.swift */; };
-		86A9E5A12D1301A9007655CA /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E59E2D1301A9007655CA /* SettingsView.swift */; };
-		86A9E5A22D1301A9007655CA /* SettingsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E59F2D1301A9007655CA /* SettingsModel.swift */; };
-		86A9E5A32D1301A9007655CA /* SettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E5A02D1301A9007655CA /* SettingsViewModel.swift */; };
+		86A9E59A2D12F1D6007655CA /* LollipopsStageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E5972D12F1D6007655CA /* LollipopsStageView.swift */; };
+		86A9E59B2D12F1D6007655CA /* LollipopsStageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E5982D12F1D6007655CA /* LollipopsStageModel.swift */; };
+		86A9E59C2D12F1D6007655CA /* LollipopsStageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E5992D12F1D6007655CA /* LollipopsStageViewModel.swift */; };
+		86A9E5A12D1301A9007655CA /* LollipopsSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E59E2D1301A9007655CA /* LollipopsSettingsView.swift */; };
+		86A9E5A22D1301A9007655CA /* LollipopsSettingsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E59F2D1301A9007655CA /* LollipopsSettingsModel.swift */; };
+		86A9E5A32D1301A9007655CA /* LollipopsSettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A9E5A02D1301A9007655CA /* LollipopsSettingsViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		866268F12D142F3C0054E911 /* SweetCastleLevelsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SweetCastleLevelsView.swift; sourceTree = "<group>"; };
-		866268F22D142F3C0054E911 /* SweetCastleLevelsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SweetCastleLevelsModel.swift; sourceTree = "<group>"; };
-		866268F32D142F3C0054E911 /* SweetCastleLevelsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SweetCastleLevelsViewModel.swift; sourceTree = "<group>"; };
-		866268F92D14390C0054E911 /* CandyFactoryLevelsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyFactoryLevelsView.swift; sourceTree = "<group>"; };
-		866268FA2D14390C0054E911 /* CandyFactoryLevelsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyFactoryLevelsModel.swift; sourceTree = "<group>"; };
-		866268FB2D14390C0054E911 /* CandyFactoryLevelsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyFactoryLevelsViewModel.swift; sourceTree = "<group>"; };
-		866269002D14566D0054E911 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
-		866269012D14566D0054E911 /* GameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameModel.swift; sourceTree = "<group>"; };
-		866269022D14566D0054E911 /* GameViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewModel.swift; sourceTree = "<group>"; };
-		866269082D14D49E0054E911 /* WinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinView.swift; sourceTree = "<group>"; };
-		866269092D14D49E0054E911 /* WinModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinModel.swift; sourceTree = "<group>"; };
-		8662690A2D14D49E0054E911 /* WinViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinViewModel.swift; sourceTree = "<group>"; };
-		8662690F2D14DA390054E911 /* LoseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoseView.swift; sourceTree = "<group>"; };
-		866269102D14DA390054E911 /* LoseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoseModel.swift; sourceTree = "<group>"; };
-		866269112D14DA390054E911 /* LoseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoseViewModel.swift; sourceTree = "<group>"; };
-		866269162D14DD150054E911 /* LoseLivesOverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoseLivesOverView.swift; sourceTree = "<group>"; };
-		866269172D14DD150054E911 /* LoseLivesOverModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoseLivesOverModel.swift; sourceTree = "<group>"; };
-		866269182D14DD150054E911 /* LoseLivesOverViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoseLivesOverViewModel.swift; sourceTree = "<group>"; };
-		8662691D2D14DDB60054E911 /* PauseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseView.swift; sourceTree = "<group>"; };
-		8662691E2D14DDB60054E911 /* PauseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseModel.swift; sourceTree = "<group>"; };
-		8662691F2D14DDB60054E911 /* PauseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseViewModel.swift; sourceTree = "<group>"; };
+		866268F12D142F3C0054E911 /* LollipopsSweetCastleLevelsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsSweetCastleLevelsView.swift; sourceTree = "<group>"; };
+		866268F22D142F3C0054E911 /* LollipopsSweetCastleLevelsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsSweetCastleLevelsModel.swift; sourceTree = "<group>"; };
+		866268F32D142F3C0054E911 /* LollipopsSweetCastleLevelsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsSweetCastleLevelsViewModel.swift; sourceTree = "<group>"; };
+		866268F92D14390C0054E911 /* LollipopsCandyFactoryLevelsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsCandyFactoryLevelsView.swift; sourceTree = "<group>"; };
+		866268FA2D14390C0054E911 /* LollipopsCandyFactoryLevelsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsCandyFactoryLevelsModel.swift; sourceTree = "<group>"; };
+		866268FB2D14390C0054E911 /* LollipopsCandyFactoryLevelsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsCandyFactoryLevelsViewModel.swift; sourceTree = "<group>"; };
+		866269002D14566D0054E911 /* LollipopsGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsGameView.swift; sourceTree = "<group>"; };
+		866269012D14566D0054E911 /* LollipopsGameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsGameModel.swift; sourceTree = "<group>"; };
+		866269022D14566D0054E911 /* LollipopsGameViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsGameViewModel.swift; sourceTree = "<group>"; };
+		866269082D14D49E0054E911 /* LollipopsWinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsWinView.swift; sourceTree = "<group>"; };
+		866269092D14D49E0054E911 /* LollipopsWinModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsWinModel.swift; sourceTree = "<group>"; };
+		8662690A2D14D49E0054E911 /* LollipopsWinViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsWinViewModel.swift; sourceTree = "<group>"; };
+		8662690F2D14DA390054E911 /* LollipopsLoseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoseView.swift; sourceTree = "<group>"; };
+		866269102D14DA390054E911 /* LollipopsLoseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoseModel.swift; sourceTree = "<group>"; };
+		866269112D14DA390054E911 /* LollipopsLoseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoseViewModel.swift; sourceTree = "<group>"; };
+		866269162D14DD150054E911 /* LollipopsLoseLivesOverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoseLivesOverView.swift; sourceTree = "<group>"; };
+		866269172D14DD150054E911 /* LollipopsLoseLivesOverModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoseLivesOverModel.swift; sourceTree = "<group>"; };
+		866269182D14DD150054E911 /* LollipopsLoseLivesOverViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoseLivesOverViewModel.swift; sourceTree = "<group>"; };
+		8662691D2D14DDB60054E911 /* LollipopsPauseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsPauseView.swift; sourceTree = "<group>"; };
+		8662691E2D14DDB60054E911 /* LollipopsPauseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsPauseModel.swift; sourceTree = "<group>"; };
+		8662691F2D14DDB60054E911 /* LollipopsPauseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsPauseViewModel.swift; sourceTree = "<group>"; };
 		866269252D151F860054E911 /* UserDefalutsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefalutsManager.swift; sourceTree = "<group>"; };
 		867CFC052D123007004B2423 /* Lollipops.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lollipops.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		867CFC082D123007004B2423 /* LollipopsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsApp.swift; sourceTree = "<group>"; };
@@ -93,25 +93,25 @@
 		867CFC242D123216004B2423 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		867CFC272D1232C8004B2423 /* ImageName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageName.swift; sourceTree = "<group>"; };
 		867CFC292D1232F4004B2423 /* CustomButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtons.swift; sourceTree = "<group>"; };
-		867CFC2C2D1233C9004B2423 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
-		867CFC2D2D1233C9004B2423 /* LoadingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingModel.swift; sourceTree = "<group>"; };
-		867CFC2E2D1233C9004B2423 /* LoadingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingViewModel.swift; sourceTree = "<group>"; };
-		867CFC332D123D48004B2423 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
-		867CFC342D123D48004B2423 /* MenuModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuModel.swift; sourceTree = "<group>"; };
-		867CFC352D123D48004B2423 /* MenuViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewModel.swift; sourceTree = "<group>"; };
-		867D5FC62D136457000AFAE0 /* ShopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopView.swift; sourceTree = "<group>"; };
-		867D5FC72D136457000AFAE0 /* ShopModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopModel.swift; sourceTree = "<group>"; };
-		867D5FC82D136457000AFAE0 /* ShopViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopViewModel.swift; sourceTree = "<group>"; };
-		867D5FCD2D1377E9000AFAE0 /* AdvanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvanceView.swift; sourceTree = "<group>"; };
-		867D5FCE2D1377E9000AFAE0 /* AdvanceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvanceModel.swift; sourceTree = "<group>"; };
-		867D5FCF2D1377E9000AFAE0 /* AdvanceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvanceViewModel.swift; sourceTree = "<group>"; };
+		867CFC2C2D1233C9004B2423 /* LollipopsLoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoadingView.swift; sourceTree = "<group>"; };
+		867CFC2D2D1233C9004B2423 /* LollipopsLoadingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoadingModel.swift; sourceTree = "<group>"; };
+		867CFC2E2D1233C9004B2423 /* LollipopsLoadingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsLoadingViewModel.swift; sourceTree = "<group>"; };
+		867CFC332D123D48004B2423 /* LollipopsMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsMenuView.swift; sourceTree = "<group>"; };
+		867CFC342D123D48004B2423 /* LollipopsMenuModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsMenuModel.swift; sourceTree = "<group>"; };
+		867CFC352D123D48004B2423 /* LollipopsMenuViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsMenuViewModel.swift; sourceTree = "<group>"; };
+		867D5FC62D136457000AFAE0 /* LollipopsShopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsShopView.swift; sourceTree = "<group>"; };
+		867D5FC72D136457000AFAE0 /* LollipopsShopModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsShopModel.swift; sourceTree = "<group>"; };
+		867D5FC82D136457000AFAE0 /* LollipopsShopViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsShopViewModel.swift; sourceTree = "<group>"; };
+		867D5FCD2D1377E9000AFAE0 /* LollipopsAdvanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsAdvanceView.swift; sourceTree = "<group>"; };
+		867D5FCE2D1377E9000AFAE0 /* LollipopsAdvanceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsAdvanceModel.swift; sourceTree = "<group>"; };
+		867D5FCF2D1377E9000AFAE0 /* LollipopsAdvanceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsAdvanceViewModel.swift; sourceTree = "<group>"; };
 		86A9E5942D12EF96007655CA /* RocknRollOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RocknRollOne-Regular.ttf"; sourceTree = "<group>"; };
-		86A9E5972D12F1D6007655CA /* StageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageView.swift; sourceTree = "<group>"; };
-		86A9E5982D12F1D6007655CA /* StageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageModel.swift; sourceTree = "<group>"; };
-		86A9E5992D12F1D6007655CA /* StageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageViewModel.swift; sourceTree = "<group>"; };
-		86A9E59E2D1301A9007655CA /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
-		86A9E59F2D1301A9007655CA /* SettingsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsModel.swift; sourceTree = "<group>"; };
-		86A9E5A02D1301A9007655CA /* SettingsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewModel.swift; sourceTree = "<group>"; };
+		86A9E5972D12F1D6007655CA /* LollipopsStageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsStageView.swift; sourceTree = "<group>"; };
+		86A9E5982D12F1D6007655CA /* LollipopsStageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsStageModel.swift; sourceTree = "<group>"; };
+		86A9E5992D12F1D6007655CA /* LollipopsStageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsStageViewModel.swift; sourceTree = "<group>"; };
+		86A9E59E2D1301A9007655CA /* LollipopsSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsSettingsView.swift; sourceTree = "<group>"; };
+		86A9E59F2D1301A9007655CA /* LollipopsSettingsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsSettingsModel.swift; sourceTree = "<group>"; };
+		86A9E5A02D1301A9007655CA /* LollipopsSettingsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LollipopsSettingsViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,9 +128,9 @@
 		866268F02D142F240054E911 /* SweetCastleLevels */ = {
 			isa = PBXGroup;
 			children = (
-				866268F12D142F3C0054E911 /* SweetCastleLevelsView.swift */,
-				866268F22D142F3C0054E911 /* SweetCastleLevelsModel.swift */,
-				866268F32D142F3C0054E911 /* SweetCastleLevelsViewModel.swift */,
+				866268F12D142F3C0054E911 /* LollipopsSweetCastleLevelsView.swift */,
+				866268F22D142F3C0054E911 /* LollipopsSweetCastleLevelsModel.swift */,
+				866268F32D142F3C0054E911 /* LollipopsSweetCastleLevelsViewModel.swift */,
 			);
 			path = SweetCastleLevels;
 			sourceTree = "<group>";
@@ -138,9 +138,9 @@
 		866268F72D1438F40054E911 /* CandyFactoryLevels */ = {
 			isa = PBXGroup;
 			children = (
-				866268F92D14390C0054E911 /* CandyFactoryLevelsView.swift */,
-				866268FA2D14390C0054E911 /* CandyFactoryLevelsModel.swift */,
-				866268FB2D14390C0054E911 /* CandyFactoryLevelsViewModel.swift */,
+				866268F92D14390C0054E911 /* LollipopsCandyFactoryLevelsView.swift */,
+				866268FA2D14390C0054E911 /* LollipopsCandyFactoryLevelsModel.swift */,
+				866268FB2D14390C0054E911 /* LollipopsCandyFactoryLevelsViewModel.swift */,
 			);
 			path = CandyFactoryLevels;
 			sourceTree = "<group>";
@@ -148,9 +148,9 @@
 		866268FF2D144FE00054E911 /* GameModule */ = {
 			isa = PBXGroup;
 			children = (
-				866269002D14566D0054E911 /* GameView.swift */,
-				866269012D14566D0054E911 /* GameModel.swift */,
-				866269022D14566D0054E911 /* GameViewModel.swift */,
+				866269002D14566D0054E911 /* LollipopsGameView.swift */,
+				866269012D14566D0054E911 /* LollipopsGameModel.swift */,
+				866269022D14566D0054E911 /* LollipopsGameViewModel.swift */,
 			);
 			path = GameModule;
 			sourceTree = "<group>";
@@ -158,9 +158,9 @@
 		866269072D14D4940054E911 /* WinModule */ = {
 			isa = PBXGroup;
 			children = (
-				866269082D14D49E0054E911 /* WinView.swift */,
-				866269092D14D49E0054E911 /* WinModel.swift */,
-				8662690A2D14D49E0054E911 /* WinViewModel.swift */,
+				866269082D14D49E0054E911 /* LollipopsWinView.swift */,
+				866269092D14D49E0054E911 /* LollipopsWinModel.swift */,
+				8662690A2D14D49E0054E911 /* LollipopsWinViewModel.swift */,
 			);
 			path = WinModule;
 			sourceTree = "<group>";
@@ -168,9 +168,9 @@
 		8662690E2D14DA310054E911 /* LoseModule */ = {
 			isa = PBXGroup;
 			children = (
-				8662690F2D14DA390054E911 /* LoseView.swift */,
-				866269102D14DA390054E911 /* LoseModel.swift */,
-				866269112D14DA390054E911 /* LoseViewModel.swift */,
+				8662690F2D14DA390054E911 /* LollipopsLoseView.swift */,
+				866269102D14DA390054E911 /* LollipopsLoseModel.swift */,
+				866269112D14DA390054E911 /* LollipopsLoseViewModel.swift */,
 			);
 			path = LoseModule;
 			sourceTree = "<group>";
@@ -178,9 +178,9 @@
 		866269152D14DD070054E911 /* LoseLivesOverModule */ = {
 			isa = PBXGroup;
 			children = (
-				866269162D14DD150054E911 /* LoseLivesOverView.swift */,
-				866269172D14DD150054E911 /* LoseLivesOverModel.swift */,
-				866269182D14DD150054E911 /* LoseLivesOverViewModel.swift */,
+				866269162D14DD150054E911 /* LollipopsLoseLivesOverView.swift */,
+				866269172D14DD150054E911 /* LollipopsLoseLivesOverModel.swift */,
+				866269182D14DD150054E911 /* LollipopsLoseLivesOverViewModel.swift */,
 			);
 			path = LoseLivesOverModule;
 			sourceTree = "<group>";
@@ -188,9 +188,9 @@
 		8662691C2D14DDAB0054E911 /* PauseModule */ = {
 			isa = PBXGroup;
 			children = (
-				8662691D2D14DDB60054E911 /* PauseView.swift */,
-				8662691E2D14DDB60054E911 /* PauseModel.swift */,
-				8662691F2D14DDB60054E911 /* PauseViewModel.swift */,
+				8662691D2D14DDB60054E911 /* LollipopsPauseView.swift */,
+				8662691E2D14DDB60054E911 /* LollipopsPauseModel.swift */,
+				8662691F2D14DDB60054E911 /* LollipopsPauseViewModel.swift */,
 			);
 			path = PauseModule;
 			sourceTree = "<group>";
@@ -326,9 +326,9 @@
 		867CFC2B2D1233C1004B2423 /* LoadingModule */ = {
 			isa = PBXGroup;
 			children = (
-				867CFC2C2D1233C9004B2423 /* LoadingView.swift */,
-				867CFC2D2D1233C9004B2423 /* LoadingModel.swift */,
-				867CFC2E2D1233C9004B2423 /* LoadingViewModel.swift */,
+				867CFC2C2D1233C9004B2423 /* LollipopsLoadingView.swift */,
+				867CFC2D2D1233C9004B2423 /* LollipopsLoadingModel.swift */,
+				867CFC2E2D1233C9004B2423 /* LollipopsLoadingViewModel.swift */,
 			);
 			path = LoadingModule;
 			sourceTree = "<group>";
@@ -336,9 +336,9 @@
 		867CFC322D123D3E004B2423 /* MenuModule */ = {
 			isa = PBXGroup;
 			children = (
-				867CFC332D123D48004B2423 /* MenuView.swift */,
-				867CFC342D123D48004B2423 /* MenuModel.swift */,
-				867CFC352D123D48004B2423 /* MenuViewModel.swift */,
+				867CFC332D123D48004B2423 /* LollipopsMenuView.swift */,
+				867CFC342D123D48004B2423 /* LollipopsMenuModel.swift */,
+				867CFC352D123D48004B2423 /* LollipopsMenuViewModel.swift */,
 			);
 			path = MenuModule;
 			sourceTree = "<group>";
@@ -346,9 +346,9 @@
 		867D5FC42D136449000AFAE0 /* ShopModule */ = {
 			isa = PBXGroup;
 			children = (
-				867D5FC62D136457000AFAE0 /* ShopView.swift */,
-				867D5FC72D136457000AFAE0 /* ShopModel.swift */,
-				867D5FC82D136457000AFAE0 /* ShopViewModel.swift */,
+				867D5FC62D136457000AFAE0 /* LollipopsShopView.swift */,
+				867D5FC72D136457000AFAE0 /* LollipopsShopModel.swift */,
+				867D5FC82D136457000AFAE0 /* LollipopsShopViewModel.swift */,
 			);
 			path = ShopModule;
 			sourceTree = "<group>";
@@ -356,9 +356,9 @@
 		867D5FCC2D1377DE000AFAE0 /* AdvanceModule */ = {
 			isa = PBXGroup;
 			children = (
-				867D5FCD2D1377E9000AFAE0 /* AdvanceView.swift */,
-				867D5FCE2D1377E9000AFAE0 /* AdvanceModel.swift */,
-				867D5FCF2D1377E9000AFAE0 /* AdvanceViewModel.swift */,
+				867D5FCD2D1377E9000AFAE0 /* LollipopsAdvanceView.swift */,
+				867D5FCE2D1377E9000AFAE0 /* LollipopsAdvanceModel.swift */,
+				867D5FCF2D1377E9000AFAE0 /* LollipopsAdvanceViewModel.swift */,
 			);
 			path = AdvanceModule;
 			sourceTree = "<group>";
@@ -366,9 +366,9 @@
 		86A9E5962D12F1CF007655CA /* StageModule */ = {
 			isa = PBXGroup;
 			children = (
-				86A9E5972D12F1D6007655CA /* StageView.swift */,
-				86A9E5982D12F1D6007655CA /* StageModel.swift */,
-				86A9E5992D12F1D6007655CA /* StageViewModel.swift */,
+				86A9E5972D12F1D6007655CA /* LollipopsStageView.swift */,
+				86A9E5982D12F1D6007655CA /* LollipopsStageModel.swift */,
+				86A9E5992D12F1D6007655CA /* LollipopsStageViewModel.swift */,
 			);
 			path = StageModule;
 			sourceTree = "<group>";
@@ -376,9 +376,9 @@
 		86A9E59D2D1301A0007655CA /* SettingsModule */ = {
 			isa = PBXGroup;
 			children = (
-				86A9E59E2D1301A9007655CA /* SettingsView.swift */,
-				86A9E59F2D1301A9007655CA /* SettingsModel.swift */,
-				86A9E5A02D1301A9007655CA /* SettingsViewModel.swift */,
+				86A9E59E2D1301A9007655CA /* LollipopsSettingsView.swift */,
+				86A9E59F2D1301A9007655CA /* LollipopsSettingsModel.swift */,
+				86A9E5A02D1301A9007655CA /* LollipopsSettingsViewModel.swift */,
 			);
 			path = SettingsModule;
 			sourceTree = "<group>";
@@ -456,48 +456,48 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				866268FC2D14390C0054E911 /* CandyFactoryLevelsView.swift in Sources */,
-				866268FD2D14390C0054E911 /* CandyFactoryLevelsModel.swift in Sources */,
-				866269122D14DA390054E911 /* LoseView.swift in Sources */,
-				866269132D14DA390054E911 /* LoseModel.swift in Sources */,
+				866268FC2D14390C0054E911 /* LollipopsCandyFactoryLevelsView.swift in Sources */,
+				866268FD2D14390C0054E911 /* LollipopsCandyFactoryLevelsModel.swift in Sources */,
+				866269122D14DA390054E911 /* LollipopsLoseView.swift in Sources */,
+				866269132D14DA390054E911 /* LollipopsLoseModel.swift in Sources */,
 				866269262D151F860054E911 /* UserDefalutsManager.swift in Sources */,
-				866269142D14DA390054E911 /* LoseViewModel.swift in Sources */,
-				866268FE2D14390C0054E911 /* CandyFactoryLevelsViewModel.swift in Sources */,
-				866269192D14DD150054E911 /* LoseLivesOverView.swift in Sources */,
-				8662691A2D14DD150054E911 /* LoseLivesOverModel.swift in Sources */,
-				8662691B2D14DD150054E911 /* LoseLivesOverViewModel.swift in Sources */,
-				867CFC362D123D48004B2423 /* MenuView.swift in Sources */,
-				867CFC372D123D48004B2423 /* MenuModel.swift in Sources */,
-				867CFC382D123D48004B2423 /* MenuViewModel.swift in Sources */,
+				866269142D14DA390054E911 /* LollipopsLoseViewModel.swift in Sources */,
+				866268FE2D14390C0054E911 /* LollipopsCandyFactoryLevelsViewModel.swift in Sources */,
+				866269192D14DD150054E911 /* LollipopsLoseLivesOverView.swift in Sources */,
+				8662691A2D14DD150054E911 /* LollipopsLoseLivesOverModel.swift in Sources */,
+				8662691B2D14DD150054E911 /* LollipopsLoseLivesOverViewModel.swift in Sources */,
+				867CFC362D123D48004B2423 /* LollipopsMenuView.swift in Sources */,
+				867CFC372D123D48004B2423 /* LollipopsMenuModel.swift in Sources */,
+				867CFC382D123D48004B2423 /* LollipopsMenuViewModel.swift in Sources */,
 				867CFC282D1232C8004B2423 /* ImageName.swift in Sources */,
 				867CFC1E2D1230F2004B2423 /* TextExtension.swift in Sources */,
-				867CFC2F2D1233C9004B2423 /* LoadingView.swift in Sources */,
-				867D5FD02D1377E9000AFAE0 /* AdvanceView.swift in Sources */,
-				867D5FD12D1377E9000AFAE0 /* AdvanceModel.swift in Sources */,
-				867D5FD22D1377E9000AFAE0 /* AdvanceViewModel.swift in Sources */,
-				867CFC302D1233C9004B2423 /* LoadingModel.swift in Sources */,
-				867CFC312D1233C9004B2423 /* LoadingViewModel.swift in Sources */,
-				866269202D14DDB60054E911 /* PauseView.swift in Sources */,
-				866269212D14DDB60054E911 /* PauseModel.swift in Sources */,
-				866269222D14DDB60054E911 /* PauseViewModel.swift in Sources */,
-				86A9E59A2D12F1D6007655CA /* StageView.swift in Sources */,
-				86A9E59B2D12F1D6007655CA /* StageModel.swift in Sources */,
-				8662690B2D14D49E0054E911 /* WinView.swift in Sources */,
-				8662690C2D14D49E0054E911 /* WinModel.swift in Sources */,
-				8662690D2D14D49E0054E911 /* WinViewModel.swift in Sources */,
-				86A9E59C2D12F1D6007655CA /* StageViewModel.swift in Sources */,
-				867D5FC92D136457000AFAE0 /* ShopView.swift in Sources */,
-				867D5FCA2D136457000AFAE0 /* ShopModel.swift in Sources */,
-				866269032D14566D0054E911 /* GameView.swift in Sources */,
-				866269042D14566D0054E911 /* GameModel.swift in Sources */,
-				866269052D14566D0054E911 /* GameViewModel.swift in Sources */,
-				867D5FCB2D136457000AFAE0 /* ShopViewModel.swift in Sources */,
-				86A9E5A12D1301A9007655CA /* SettingsView.swift in Sources */,
-				86A9E5A22D1301A9007655CA /* SettingsModel.swift in Sources */,
-				866268F42D142F3C0054E911 /* SweetCastleLevelsView.swift in Sources */,
-				866268F52D142F3C0054E911 /* SweetCastleLevelsModel.swift in Sources */,
-				866268F62D142F3C0054E911 /* SweetCastleLevelsViewModel.swift in Sources */,
-				86A9E5A32D1301A9007655CA /* SettingsViewModel.swift in Sources */,
+				867CFC2F2D1233C9004B2423 /* LollipopsLoadingView.swift in Sources */,
+				867D5FD02D1377E9000AFAE0 /* LollipopsAdvanceView.swift in Sources */,
+				867D5FD12D1377E9000AFAE0 /* LollipopsAdvanceModel.swift in Sources */,
+				867D5FD22D1377E9000AFAE0 /* LollipopsAdvanceViewModel.swift in Sources */,
+				867CFC302D1233C9004B2423 /* LollipopsLoadingModel.swift in Sources */,
+				867CFC312D1233C9004B2423 /* LollipopsLoadingViewModel.swift in Sources */,
+				866269202D14DDB60054E911 /* LollipopsPauseView.swift in Sources */,
+				866269212D14DDB60054E911 /* LollipopsPauseModel.swift in Sources */,
+				866269222D14DDB60054E911 /* LollipopsPauseViewModel.swift in Sources */,
+				86A9E59A2D12F1D6007655CA /* LollipopsStageView.swift in Sources */,
+				86A9E59B2D12F1D6007655CA /* LollipopsStageModel.swift in Sources */,
+				8662690B2D14D49E0054E911 /* LollipopsWinView.swift in Sources */,
+				8662690C2D14D49E0054E911 /* LollipopsWinModel.swift in Sources */,
+				8662690D2D14D49E0054E911 /* LollipopsWinViewModel.swift in Sources */,
+				86A9E59C2D12F1D6007655CA /* LollipopsStageViewModel.swift in Sources */,
+				867D5FC92D136457000AFAE0 /* LollipopsShopView.swift in Sources */,
+				867D5FCA2D136457000AFAE0 /* LollipopsShopModel.swift in Sources */,
+				866269032D14566D0054E911 /* LollipopsGameView.swift in Sources */,
+				866269042D14566D0054E911 /* LollipopsGameModel.swift in Sources */,
+				866269052D14566D0054E911 /* LollipopsGameViewModel.swift in Sources */,
+				867D5FCB2D136457000AFAE0 /* LollipopsShopViewModel.swift in Sources */,
+				86A9E5A12D1301A9007655CA /* LollipopsSettingsView.swift in Sources */,
+				86A9E5A22D1301A9007655CA /* LollipopsSettingsModel.swift in Sources */,
+				866268F42D142F3C0054E911 /* LollipopsSweetCastleLevelsView.swift in Sources */,
+				866268F52D142F3C0054E911 /* LollipopsSweetCastleLevelsModel.swift in Sources */,
+				866268F62D142F3C0054E911 /* LollipopsSweetCastleLevelsViewModel.swift in Sources */,
+				86A9E5A32D1301A9007655CA /* LollipopsSettingsViewModel.swift in Sources */,
 				867CFC212D123105004B2423 /* OutlineExtension.swift in Sources */,
 				867CFC2A2D1232F4004B2423 /* CustomButtons.swift in Sources */,
 				867CFC092D123007004B2423 /* LollipopsApp.swift in Sources */,

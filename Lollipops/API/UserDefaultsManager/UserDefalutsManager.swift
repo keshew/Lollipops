@@ -7,30 +7,30 @@ enum Keys: String {
     case isOn = "isOn"
 }
 
-class UserDefaultsManager {
+class LollipopsUserDefaultsManager {
     static let defaults = UserDefaults.standard
     
     func firstLaunch() {
-        if UserDefaultsManager.defaults.string(forKey: Keys.numberOfLevel.rawValue) == nil {
-            UserDefaultsManager.defaults.set(13, forKey: Keys.numberOfLevel.rawValue)
-            UserDefaultsManager.defaults.set(100, forKey: Keys.countOfMoney.rawValue)
-            UserDefaultsManager.defaults.set(5, forKey: Keys.countOfLifes.rawValue)
+        if LollipopsUserDefaultsManager.defaults.string(forKey: Keys.numberOfLevel.rawValue) == nil {
+            LollipopsUserDefaultsManager.defaults.set(13, forKey: Keys.numberOfLevel.rawValue)
+            LollipopsUserDefaultsManager.defaults.set(100, forKey: Keys.countOfMoney.rawValue)
+            LollipopsUserDefaultsManager.defaults.set(5, forKey: Keys.countOfLifes.rawValue)
         }
     }
     
     func completeLevel() {
-        let level = UserDefaultsManager.defaults.object(forKey: Keys.numberOfLevel.rawValue) as? Int ?? 0
-        let money = UserDefaultsManager.defaults.object(forKey: Keys.countOfMoney.rawValue) as? Int ?? 0
+        let level = LollipopsUserDefaultsManager.defaults.object(forKey: Keys.numberOfLevel.rawValue) as? Int ?? 0
+        let money = LollipopsUserDefaultsManager.defaults.object(forKey: Keys.countOfMoney.rawValue) as? Int ?? 0
         if level < 18 {
-            UserDefaultsManager.defaults.set(level + 1, forKey: Keys.numberOfLevel.rawValue)
-            UserDefaultsManager.defaults.set(money + 50, forKey: Keys.countOfMoney.rawValue)
+            LollipopsUserDefaultsManager.defaults.set(level + 1, forKey: Keys.numberOfLevel.rawValue)
+            LollipopsUserDefaultsManager.defaults.set(money + 50, forKey: Keys.countOfMoney.rawValue)
         }
     }
     
     func loseLevel() {
-        let heart = UserDefaultsManager.defaults.object(forKey: Keys.countOfLifes.rawValue) as? Int ?? 0
+        let heart = LollipopsUserDefaultsManager.defaults.object(forKey: Keys.countOfLifes.rawValue) as? Int ?? 0
         if heart > 0 {
-            UserDefaultsManager.defaults.set(heart - 1, forKey: Keys.countOfLifes.rawValue)
+            LollipopsUserDefaultsManager.defaults.set(heart - 1, forKey: Keys.countOfLifes.rawValue)
         }
     
     }

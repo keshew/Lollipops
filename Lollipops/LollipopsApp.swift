@@ -4,9 +4,9 @@ import SwiftUI
 struct LollipopsApp: App {
     var body: some Scene {
         WindowGroup {
-            LoadingView()
+            LollipopsLoadingView()
                 .onAppear {
-                    UserDefaultsManager().firstLaunch()
+                    LollipopsUserDefaultsManager().firstLaunch()
                 }
         }
     }
